@@ -9,7 +9,7 @@ body {
     flex-direction: row;
   }
   
-  .cont {
+  .cent {
     width: 40vw;
   }
   
@@ -20,9 +20,11 @@ body {
     height: 100px;
   }
   
-  .randomColorBtn {
+  .Btn {
     margin-top: 20px;
     padding: 10px 20px;
     margin-left: 3rem;
     cursor: pointer;
   }
+
+  
